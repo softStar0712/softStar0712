@@ -1,5 +1,9 @@
-<h2 align="center"><em>Senior Software Engineer &middot; 10+ years &middot; Full-Stack &middot; AI-Driven Products</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/></h1>
+<!-- Contribution Grid Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/softStar0712/softStar0712/main/assets/contribution-grid.svg" width="100%" alt="Contribution Grid" />
+</p>
 
+<h2 align="center"><em>Senior Software Engineer &middot; 10+ years &middot; Full-Stack &middot; AI-Driven Products</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/></h1>
 
 ---
 
