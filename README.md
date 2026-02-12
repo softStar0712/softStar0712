@@ -74,7 +74,6 @@
 </td>
 </tr>
 </table>
-
 ### Contribution Snake
 
 <img src="https://raw.githubusercontent.com/softStar0712/softStar0712/output/github-snake.svg" alt="Snake eating my contributions" width="100%" />
