@@ -1,13 +1,9 @@
-<h1 align="center">Hi, I'm softStar0712 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/></h1>
+<h1 align="center">Hi, I'm a Senior Software Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/></h1>
 
 <p align="center">
   <em>Senior Software Engineer &middot; 10+ years &middot; Full-Stack &middot; AI-Driven Products</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/softStar0712"><img src="https://img.shields.io/github/followers/softStar0712?label=Followers&style=social" alt="GitHub followers" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=softStar0712&label=Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
