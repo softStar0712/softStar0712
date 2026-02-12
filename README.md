@@ -74,7 +74,3 @@
 </td>
 </tr>
 </table>
-
----
-
-<p align="center"><em>Let's build something great together.</em></p>
