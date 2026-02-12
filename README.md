@@ -1,70 +1,44 @@
-# Hi, I'm softStar0712
-
-**Senior Software Engineer** · 10+ years building scalable web applications
+<h1 align="center">Hi 👋, I'm softStar0712</h1>
 
 ---
 
-## About
+### About Me
 
-I design and build **scalable web applications** with a focus on modern frontend (Svelte/SvelteKit, TypeScript) and Python backends. I’ve shipped dashboards, reporting tools, and data-heavy SaaS products, with production experience on **AWS** and **PostgreSQL** performance tuning.
-
-I work end-to-end: **frontend UX**, **Python APIs**, **data pipelines/ETL**, and **cloud-native** deployments with Docker and CI/CD. I also build **AI-driven insights**, analytics automation (OpenAI, Anthropic Claude), and recommendation-style personalization.
-
----
-
-## Tech Stack & Expertise
-
-### Frontend
-| | |
-|:---|:---|
-| **Core** | Svelte, SvelteKit, TypeScript, JavaScript (ES6+) |
-| **React ecosystem** | React, Next.js, Redux, Zustand, React Router, SSR hydration |
-| **UI** | Tailwind CSS, Material UI |
-
-### Backend & APIs
-| | |
-|:---|:---|
-| **Python** | Django, Django REST Framework (DRF) |
-| **Node** | Node.js, NestJS, Express.js, tRPC |
-| **API design** | REST, GraphQL |
-
-### Auth & Security
-JWT · OAuth2 · Passport.js · CORS · CSRF · Role-Based Access · Guards & Interceptors
-
-### DevOps & Cloud
-| | |
-|:---|:---|
-| **AWS** | Lambda, ECS, S3 |
-| **CI/CD** | GitHub Actions, SemaphoreCI |
-| **Other** | Docker, Cloudflare Workers |
-
-### Databases
-PostgreSQL · MySQL · MongoDB · Redis · DynamoDB · Supabase
-
-### Testing
-Jest · React Testing Library · Cypress · Playwright · Supertest · MSW · xUnit
-
-### AI & Automation
-OpenAI GPT-4 · Anthropic Claude · LangChain · GitHub Copilot · LLM · ML
-
-### Tools & Practices
-Git · GitHub · Jira · Slack · Notion · Figma · Agile/Scrum · Clean Architecture
+- Senior Software Engineer with 10+ years of experience
+- Full-stack: Svelte/SvelteKit, TypeScript, Python, Django, Node.js
+- Building scalable web apps, dashboards, and data-heavy SaaS
+- AWS, PostgreSQL, Docker, CI/CD · AI-driven insights (OpenAI, Claude)
 
 ---
 
-## What I Build
+### Tech Stack
 
-- **Full-stack web apps** — SvelteKit/Next.js frontends with Django or Node APIs  
-- **Data & reporting** — Dashboards, ETL-style jobs, and analytics automation  
-- **AI-powered features** — Integrations with OpenAI and Claude for insights and personalization  
-- **Cloud-native services** — Docker, AWS (Lambda, ECS, S3), and CI/CD pipelines  
+**Frontend**
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=svelte,ts,js,react,nextjs,tailwind,materialui,redux&perline=8" />
+</p>
 
-## Connect
+**Backend & APIs**
 
-[![GitHub](https://img.shields.io/badge/GitHub-softStar0712-181717?style=flat-square&logo=github)](https://github.com/softStar0712)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,nodejs,nestjs,express,graphql&perline=6" />
+</p>
 
----
+**Databases**
 
-*README styled like a project overview to reflect real-world engineering work.*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb,supabase&perline=6" />
+</p>
+
+**DevOps & Cloud**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,cloudflare,git,github&perline=6" />
+</p>
+
+**Testing & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,cypress,figma,notion,vscode&perline=5" />
+</p>
