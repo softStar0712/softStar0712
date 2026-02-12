@@ -15,30 +15,30 @@
 
 **Frontend**
 
-<p align="center">
+<span align="center">
   <img src="https://skillicons.dev/icons?i=svelte,ts,js,react,nextjs,tailwind,materialui,redux&perline=8" />
-</p>
+</span>
 
 **Backend & APIs**
 
-<p align="center">
+<span align="center">
   <img src="https://skillicons.dev/icons?i=py,django,nodejs,nestjs,express,graphql&perline=6" />
-</p>
+</span>
 
 **Databases**
 
-<p align="center">
+<span align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb,supabase&perline=6" />
-</p>
+</span>
 
 **DevOps & Cloud**
 
-<p align="center">
+<span align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,cloudflare,git,github&perline=6" />
-</p>
+</span>
 
 **Testing & Tools**
 
-<p align="center">
+<span align="center">
   <img src="https://skillicons.dev/icons?i=jest,cypress,figma,notion,vscode&perline=5" />
-</p>
+</span>
